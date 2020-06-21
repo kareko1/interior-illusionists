@@ -1,0 +1,68 @@
+h1{
+    color: rgb(226, 145, 236);
+    text-align: center;
+}
+#top-page{
+    border-top: lightblue;
+    border-bottom: lightblue;
+}
+.title{
+    color: black;
+    
+}
+#pe{
+  color: aliceblue;
+}
+#bodie{
+  background: linear-gradient(90deg #000, #5a1d69, #1fa3e0,);
+
+}
+body{
+    background: linear-gradient(90deg, #1fa3e0, #3364cf, #000);
+}
+#blueprint{
+  background-color: rgb(137, 67, 228);
+  
+}
+ul,.p1,.what-we-do{
+    padding-left: 12cm;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+.lnk{
+  color: skyblue;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.rounded{
+  border-radius: 50%;
+}
+
+#about-us{
+  color: white;
+}
